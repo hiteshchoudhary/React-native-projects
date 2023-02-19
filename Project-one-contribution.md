@@ -12,3 +12,10 @@ Submit your articles here via a Pull Request. Make sure your article is on Hashn
 4. [File structure of react-native app](https://sharetogrow.hashnode.dev/file-structure-of-react-native-app)
 5. [Your First Hello World React-Native App (JSX,Basic Components in react-native )](https://sharetogrow.hashnode.dev/your-first-hello-world-react-native-app-jsxbasic-components-in-react-native) 
 6. [Introduction to StyleSheet and Understanding Main-axis and Cross-axis in React-Native](https://sharetogrow.hashnode.dev/introduction-to-stylesheet-and-understanding-main-axis-and-cross-axis-in-react-native)
+
+--- Raviteja @venkataravitejagullapudi
+1. [Installing React Native Dependencies - A Beginner's Guide](https://venkataraviteja.hashnode.dev/installing-react-native-dependencies-a-beginners-guide)
+2. [Get Your First React Native App Up and Running - A Step-by-Step Guide](https://venkataraviteja.hashnode.dev/get-your-first-react-native-app-up-and-running-a-step-by-step-guide)
+3. [Understanding the React Native Folder Structure - A Beginner's Guide](https://venkataraviteja.hashnode.dev/understanding-the-react-native-folder-structure-a-beginners-guide)
+4. [Your First Component in React Native - A Beginner's Guide](https://venkataraviteja.hashnode.dev/your-first-component-in-react-native-a-beginners-guide)
+5. [Getting Started with Basic Styles in React Native](https://venkataraviteja.hashnode.dev/getting-started-with-basic-styles-in-react-native)
