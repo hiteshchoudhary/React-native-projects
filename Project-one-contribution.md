@@ -7,7 +7,7 @@ Submit your articles here via a Pull Request. Make sure your article is on Hashn
 
 1. [React Native Installation Process on Windows](https://piyushsagar.hashnode.dev/react-native-installation-process-on-windows)
 2. [Getting started with React Native: Building Your First Mobile App](https://piyushsagar.hashnode.dev/getting-started-with-react-native-building-your-first-mobile-app)
-
+---
 
 --- Moeen
 1. [your-first-reactnative-app-windows](https://moeen.hashnode.dev/your-first-reactnative-app-windows)
@@ -19,4 +19,9 @@ Submit your articles here via a Pull Request. Make sure your article is on Hashn
 4. [File structure of react-native app](https://sharetogrow.hashnode.dev/file-structure-of-react-native-app)
 5. [Your First Hello World React-Native App (JSX,Basic Components in react-native )](https://sharetogrow.hashnode.dev/your-first-hello-world-react-native-app-jsxbasic-components-in-react-native) 
 6. [Introduction to StyleSheet and Understanding Main-axis and Cross-axis in React-Native](https://sharetogrow.hashnode.dev/introduction-to-stylesheet-and-understanding-main-axis-and-cross-axis-in-react-native)
+---
 
+--- Dixit
+1. [Debugging Your React Native App Wirelessly](https://heyydixit.hashnode.dev/debugging-your-react-native-app-wirelessly)
+
+---
