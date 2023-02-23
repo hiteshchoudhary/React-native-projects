@@ -4,6 +4,6 @@ Submit your articles here via a Pull Request. Make sure your article is on Hashn
 Mark your name and then start the list
 
 ---
-Moeen Ul Islam
+[Moeen Ul Islam](https://github.com/Moeen-Ul-Islam)
 1. [Yup: Step up your validation game](https://moeen.hashnode.dev/yup-the-ultimate-validation-solution-for-javascript-developers)
 ---
