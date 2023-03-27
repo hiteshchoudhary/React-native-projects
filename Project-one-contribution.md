@@ -52,3 +52,8 @@ Submit your articles here via a Pull Request. Make sure your article is on Hashn
 6.['useColorScheme' hook in React Native](https://codewithshrut.hashnode.dev/usecolorscheme-hook-in-react-native)
 
 ---
+
+--- Pratik Chandlekar
+1. [Linux Devs Rejoice: A Comprehensive Guide to Setting Up Your React Native Development Environment](https://pratik280.hashnode.dev/linux-devs-rejoice-a-comprehensive-guide-to-setting-up-your-react-native-development-environment)
+
+---
