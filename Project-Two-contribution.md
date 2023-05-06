@@ -11,3 +11,9 @@ Moeen Ul Islam
 2. [A comprehensive guide to flexbox with code snippets](https://moeen.hashnode.dev/flex-your-layouts-a-comprehensive-guide-to-flexbox-in-react-native-with-code-snippets)
 
 ---
+
+Pratik Chandlekar
+1. [Building Multi-page Signup Login React Native App Part 1](https://pratik280.hashnode.dev/building-multi-page-signup-login-react-native-app-part-1)
+2. [Building Multi-page Signup Login React Native App Part 2](https://pratik280.hashnode.dev/building-multi-page-signup-login-react-native-app-part-2)
+
+---
