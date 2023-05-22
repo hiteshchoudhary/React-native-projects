@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 
 import {
 
+  Pressable,
   StatusBar,
   StyleSheet,
   Text,
@@ -36,6 +37,7 @@ function App(): JSX.Element {
           <Text style={styles.actionBtnTxt}>Press me</Text>
         </View>
       </TouchableOpacity>
+      
     </View>
     </>
     );
