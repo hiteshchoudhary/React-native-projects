@@ -56,4 +56,5 @@ Submit your articles here via a Pull Request. Make sure your article is on Hashn
 --- Pratik Chandlekar
 1. [Linux Devs Rejoice: A Comprehensive Guide to Setting Up Your React Native Development Environment](https://pratik280.hashnode.dev/linux-devs-rejoice-a-comprehensive-guide-to-setting-up-your-react-native-development-environment)
 
----
+--- Shubham Sinha
+1. A Complete Guide: How to set-up your first react native app on windows and running it on android device ( https://mrsinha.hashnode.dev/how-to-set-up-your-first-react-native-app-on-windows-and-running-on-android-device )
