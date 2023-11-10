@@ -2,7 +2,8 @@
 
 Submit your articles here via a Pull Request. Make sure your article is on Hashnode and should add a value. Don't make PR just for the sake for making it.
 
-
+*** Akhil Shinde
+> Every thing is but how to open app in your local device via USB:-https://akhil13401.hashnode.dev/how-to-open-app-in-your-local-device-without-using-android-studio
 --- Piyush
 
 1. [React Native Installation Process on Windows](https://piyushsagar.hashnode.dev/react-native-installation-process-on-windows)
