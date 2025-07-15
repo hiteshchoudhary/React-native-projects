@@ -57,3 +57,12 @@ Submit your articles here via a Pull Request. Make sure your article is on Hashn
 1. [Linux Devs Rejoice: A Comprehensive Guide to Setting Up Your React Native Development Environment](https://pratik280.hashnode.dev/linux-devs-rejoice-a-comprehensive-guide-to-setting-up-your-react-native-development-environment)
 
 ---
+
+--- Irfan Mehmud
+1. [React Native Installation Guide for Linux](https://react-native-guide.hashnode.dev/react-native-installation-guide-for-linux)
+
+2. [Your First React Native Application](https://react-native-guide.hashnode.dev/your-first-react-native-application)
+
+3. [Styling Your App](https://react-native-guide.hashnode.dev/getting-started-with-stylesheet)
+
+---
