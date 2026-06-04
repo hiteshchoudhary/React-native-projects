@@ -3,9 +3,9 @@ import React from 'react'
 
 // react navigation
 import {NativeStackScreenProps} from "@react-navigation/native-stack"
-import {RootStackPramList} from "../App"
+import {RootStackParamList} from "../App"
 
-type DetailsProps = NativeStackScreenProps<RootStackPramList, "Details">
+type DetailsProps = NativeStackScreenProps<RootStackParamList, "Details">
 
 const Details = ({route}: DetailsProps) => {
   const {product} = route.params
